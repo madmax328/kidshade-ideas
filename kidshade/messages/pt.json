@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "generate": "Criar uma história",
+    "dashboard": "Minhas histórias",
+    "pricing": "Preços",
+    "signin": "Entrar",
+    "signup": "Cadastrar",
+    "signout": "Sair",
+    "account": "Minha conta"
+  },
+  "hero": {
+    "badge": "✨ Magia IA para crianças",
+    "title": "Uma história mágica onde",
+    "titleHighlight": "seu filho é o herói",
+    "subtitle": "A IA cria em 30 segundos uma história única e personalizada. Seu filho se torna o herói de uma aventura inesquecível.",
+    "cta": "Criar uma história grátis",
+    "ctaSecondary": "Ver preços",
+    "stats": {
+      "families": "famílias",
+      "countries": "países",
+      "stories": "histórias criadas"
+    }
+  },
+  "generator": {
+    "title": "Crie sua história",
+    "subtitle": "Preencha o formulário em 30 segundos",
+    "childName": "Nome da criança",
+    "childNamePlaceholder": "Ex: Emma, Lucas, Sofia...",
+    "childAge": "Idade",
+    "theme": "Tema da aventura",
+    "language": "Idioma da história",
+    "submit": "✨ Gerar história",
+    "generating": "Criando a magia...",
+    "freeLeft": "histórias gratuitas restantes este mês",
+    "loginRequired": "Entre para gerar histórias",
+    "limitReached": "Limite mensal atingido — Upgrade para Premium"
+  },
+  "story": {
+    "readTime": "min de leitura",
+    "share": "Compartilhar",
+    "download": "Baixar",
+    "orderBook": "Pedir livro físico (R$89,90)",
+    "newStory": "Criar nova história",
+    "for": "para",
+    "age": "anos",
+    "theme": "Tema"
+  },
+  "dashboard": {
+    "title": "Minhas histórias",
+    "empty": "Nenhuma história ainda",
+    "emptySubtitle": "Crie sua primeira história mágica!",
+    "createFirst": "Criar minha primeira história",
+    "storiesUsed": "histórias usadas este mês",
+    "unlimited": "Ilimitado",
+    "upgradePrompt": "Upgrade para Premium para histórias ilimitadas"
+  },
+  "pricing": {
+    "title": "Escolha seu plano",
+    "subtitle": "Simples, transparente, sem compromisso",
+    "monthly": "/ mês",
+    "free": { "name": "Grátis", "price": "R$0", "cta": "Começar grátis" },
+    "premium": { "name": "Premium", "price": "R$14,90", "cta": "Assinar agora", "popular": "Mais popular" },
+    "book": { "name": "Livro Físico", "price": "R$89,90", "cta": "Pedir livro", "desc": "Por livro impresso" }
+  },
+  "auth": {
+    "signin": {
+      "title": "Bem-vindo!",
+      "subtitle": "Entre na sua conta Kidshade",
+      "email": "Email",
+      "password": "Senha",
+      "submit": "Entrar",
+      "google": "Continuar com Google",
+      "noAccount": "Não tem conta?",
+      "createAccount": "Criar conta",
+      "forgotPassword": "Esqueceu sua senha?"
+    },
+    "signup": {
+      "title": "Criar conta",
+      "subtitle": "Junte-se a +12.000 famílias no Kidshade",
+      "name": "Nome completo",
+      "email": "Email",
+      "password": "Senha",
+      "submit": "Criar minha conta",
+      "google": "Cadastrar com Google",
+      "hasAccount": "Já tem conta?",
+      "signin": "Entrar"
+    }
+  },
+  "footer": {
+    "tagline": "Histórias mágicas para crianças do mundo todo.",
+    "product": "Produto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "links": {
+      "generate": "Criar história",
+      "pricing": "Preços",
+      "dashboard": "Minhas histórias",
+      "about": "Sobre",
+      "contact": "Contato",
+      "blog": "Blog",
+      "privacy": "Privacidade",
+      "terms": "Termos",
+      "cookies": "Cookies"
+    },
+    "rights": "Todos os direitos reservados."
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "retry": "Tentar novamente",
+    "back": "Voltar",
+    "languages": {
+      "fr": "🇫🇷 Français",
+      "en": "🇬🇧 English",
+      "es": "🇪🇸 Español",
+      "pt": "🇧🇷 Português",
+      "de": "🇩🇪 Deutsch"
+    }
+  }
+}

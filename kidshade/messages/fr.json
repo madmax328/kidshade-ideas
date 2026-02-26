@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "generate": "Créer une histoire",
+    "dashboard": "Mes histoires",
+    "pricing": "Tarifs",
+    "signin": "Connexion",
+    "signup": "S'inscrire",
+    "signout": "Se déconnecter",
+    "account": "Mon compte"
+  },
+  "hero": {
+    "badge": "✨ Magie IA pour les enfants",
+    "title": "Une histoire magique où",
+    "titleHighlight": "ton enfant est le héros",
+    "subtitle": "L'IA crée en 30 secondes une histoire unique et personnalisée. Ton enfant devient le héros d'une aventure inoubliable.",
+    "cta": "Créer une histoire gratuite",
+    "ctaSecondary": "Voir les tarifs",
+    "stats": {
+      "families": "familles",
+      "countries": "pays",
+      "stories": "histoires créées"
+    }
+  },
+  "generator": {
+    "title": "Crée votre histoire",
+    "subtitle": "Remplis le formulaire en 30 secondes",
+    "childName": "Prénom de l'enfant",
+    "childNamePlaceholder": "Ex: Emma, Lucas, Sofia...",
+    "childAge": "Âge",
+    "theme": "Thème de l'aventure",
+    "language": "Langue de l'histoire",
+    "submit": "✨ Générer l'histoire",
+    "generating": "Création de la magie...",
+    "freeLeft": "histoires gratuites restantes ce mois",
+    "loginRequired": "Connecte-toi pour générer des histoires",
+    "limitReached": "Limite mensuelle atteinte — Passe en Premium"
+  },
+  "story": {
+    "readTime": "min de lecture",
+    "share": "Partager",
+    "download": "Télécharger",
+    "orderBook": "Commander le livre physique (14,99€)",
+    "newStory": "Créer une nouvelle histoire",
+    "for": "pour",
+    "age": "ans",
+    "theme": "Thème"
+  },
+  "dashboard": {
+    "title": "Mes histoires",
+    "empty": "Aucune histoire pour l'instant",
+    "emptySubtitle": "Créez votre première histoire magique !",
+    "createFirst": "Créer ma première histoire",
+    "storiesUsed": "histoires utilisées ce mois",
+    "unlimited": "Illimité",
+    "upgradePrompt": "Passez en Premium pour des histoires illimitées"
+  },
+  "pricing": {
+    "title": "Choisissez votre formule",
+    "subtitle": "Simple, transparent, sans engagement",
+    "monthly": "/ mois",
+    "free": {
+      "name": "Gratuit",
+      "price": "0€",
+      "cta": "Commencer gratuitement"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "2,99€",
+      "cta": "S'abonner maintenant",
+      "popular": "Le plus populaire"
+    },
+    "book": {
+      "name": "Livre Physique",
+      "price": "14,99€",
+      "cta": "Commander un livre",
+      "desc": "Par livre imprimé"
+    }
+  },
+  "auth": {
+    "signin": {
+      "title": "Bienvenue !",
+      "subtitle": "Connectez-vous à votre compte Kidshade",
+      "email": "Email",
+      "password": "Mot de passe",
+      "submit": "Se connecter",
+      "google": "Continuer avec Google",
+      "noAccount": "Pas encore de compte ?",
+      "createAccount": "Créer un compte",
+      "forgotPassword": "Mot de passe oublié ?"
+    },
+    "signup": {
+      "title": "Créer un compte",
+      "subtitle": "Rejoignez +12 000 familles sur Kidshade",
+      "name": "Prénom et nom",
+      "email": "Email",
+      "password": "Mot de passe",
+      "submit": "Créer mon compte",
+      "google": "S'inscrire avec Google",
+      "hasAccount": "Déjà un compte ?",
+      "signin": "Se connecter"
+    }
+  },
+  "footer": {
+    "tagline": "Des histoires magiques pour les enfants du monde entier.",
+    "product": "Produit",
+    "company": "Entreprise",
+    "legal": "Légal",
+    "links": {
+      "generate": "Créer une histoire",
+      "pricing": "Tarifs",
+      "dashboard": "Mes histoires",
+      "about": "À propos",
+      "contact": "Contact",
+      "blog": "Blog",
+      "privacy": "Confidentialité",
+      "terms": "CGU",
+      "cookies": "Cookies"
+    },
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "back": "Retour",
+    "languages": {
+      "fr": "🇫🇷 Français",
+      "en": "🇬🇧 English",
+      "es": "🇪🇸 Español",
+      "pt": "🇧🇷 Português",
+      "de": "🇩🇪 Deutsch"
+    }
+  }
+}
