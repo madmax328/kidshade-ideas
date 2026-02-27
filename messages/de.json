@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "generate": "Geschichte erstellen",
+    "dashboard": "Meine Geschichten",
+    "pricing": "Preise",
+    "signin": "Anmelden",
+    "signup": "Registrieren",
+    "signout": "Abmelden",
+    "account": "Mein Konto"
+  },
+  "hero": {
+    "badge": "✨ KI-Magie für Kinder",
+    "title": "Eine magische Geschichte, wo",
+    "titleHighlight": "dein Kind der Held ist",
+    "subtitle": "Die KI erstellt in 30 Sekunden eine einzigartige, personalisierte Geschichte. Dein Kind wird zum Helden eines unvergesslichen Abenteuers.",
+    "cta": "Kostenlose Geschichte erstellen",
+    "ctaSecondary": "Preise ansehen",
+    "stats": {
+      "families": "Familien",
+      "countries": "Länder",
+      "stories": "Geschichten erstellt"
+    }
+  },
+  "generator": {
+    "title": "Erstelle deine Geschichte",
+    "subtitle": "Fülle das Formular in 30 Sekunden aus",
+    "childName": "Name des Kindes",
+    "childNamePlaceholder": "z.B.: Emma, Lukas, Sofia...",
+    "childAge": "Alter",
+    "theme": "Abenteuer-Thema",
+    "language": "Sprache der Geschichte",
+    "submit": "✨ Geschichte generieren",
+    "generating": "Magie wird erschaffen...",
+    "freeLeft": "kostenlose Geschichten diesen Monat übrig",
+    "loginRequired": "Melde dich an, um Geschichten zu erstellen",
+    "limitReached": "Monatslimit erreicht — Upgrade auf Premium"
+  },
+  "story": {
+    "readTime": "Min. Lesezeit",
+    "share": "Teilen",
+    "download": "Herunterladen",
+    "orderBook": "Physisches Buch bestellen (14,99€)",
+    "newStory": "Neue Geschichte erstellen",
+    "for": "für",
+    "age": "Jahre",
+    "theme": "Thema"
+  },
+  "dashboard": {
+    "title": "Meine Geschichten",
+    "empty": "Noch keine Geschichten",
+    "emptySubtitle": "Erstelle deine erste magische Geschichte!",
+    "createFirst": "Meine erste Geschichte erstellen",
+    "storiesUsed": "Geschichten diesen Monat genutzt",
+    "unlimited": "Unbegrenzt",
+    "upgradePrompt": "Upgrade auf Premium für unbegrenzte Geschichten"
+  },
+  "pricing": {
+    "title": "Wähle deinen Plan",
+    "subtitle": "Einfach, transparent, ohne Verpflichtung",
+    "monthly": "/ Monat",
+    "free": { "name": "Kostenlos", "price": "0€", "cta": "Kostenlos starten" },
+    "premium": { "name": "Premium", "price": "2,99€", "cta": "Jetzt abonnieren", "popular": "Am beliebtesten" },
+    "book": { "name": "Physisches Buch", "price": "14,99€", "cta": "Buch bestellen", "desc": "Pro gedrucktem Buch" }
+  },
+  "auth": {
+    "signin": {
+      "title": "Willkommen zurück!",
+      "subtitle": "Melde dich bei deinem Kidshade-Konto an",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "submit": "Anmelden",
+      "google": "Mit Google fortfahren",
+      "noAccount": "Noch kein Konto?",
+      "createAccount": "Konto erstellen",
+      "forgotPassword": "Passwort vergessen?"
+    },
+    "signup": {
+      "title": "Konto erstellen",
+      "subtitle": "Schließe dich +12.000 Familien auf Kidshade an",
+      "name": "Vor- und Nachname",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "submit": "Mein Konto erstellen",
+      "google": "Mit Google registrieren",
+      "hasAccount": "Hast du schon ein Konto?",
+      "signin": "Anmelden"
+    }
+  },
+  "footer": {
+    "tagline": "Magische Geschichten für Kinder auf der ganzen Welt.",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "links": {
+      "generate": "Geschichte erstellen",
+      "pricing": "Preise",
+      "dashboard": "Meine Geschichten",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "blog": "Blog",
+      "privacy": "Datenschutz",
+      "terms": "AGB",
+      "cookies": "Cookies"
+    },
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "retry": "Erneut versuchen",
+    "back": "Zurück",
+    "languages": {
+      "fr": "🇫🇷 Français",
+      "en": "🇬🇧 English",
+      "es": "🇪🇸 Español",
+      "pt": "🇧🇷 Português",
+      "de": "🇩🇪 Deutsch"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "generate": "Create a story",
+    "dashboard": "My stories",
+    "pricing": "Pricing",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "signout": "Sign out",
+    "account": "My account"
+  },
+  "hero": {
+    "badge": "✨ AI Magic for Children",
+    "title": "A magical story where",
+    "titleHighlight": "your child is the hero",
+    "subtitle": "AI creates a unique, personalized story in 30 seconds. Your child becomes the hero of an unforgettable adventure.",
+    "cta": "Create a free story",
+    "ctaSecondary": "View pricing",
+    "stats": {
+      "families": "families",
+      "countries": "countries",
+      "stories": "stories created"
+    }
+  },
+  "generator": {
+    "title": "Create your story",
+    "subtitle": "Fill in the form in 30 seconds",
+    "childName": "Child's name",
+    "childNamePlaceholder": "Ex: Emma, Lucas, Sofia...",
+    "childAge": "Age",
+    "theme": "Adventure theme",
+    "language": "Story language",
+    "submit": "✨ Generate story",
+    "generating": "Creating the magic...",
+    "freeLeft": "free stories left this month",
+    "loginRequired": "Sign in to generate stories",
+    "limitReached": "Monthly limit reached — Upgrade to Premium"
+  },
+  "story": {
+    "readTime": "min read",
+    "share": "Share",
+    "download": "Download",
+    "orderBook": "Order physical book (€14.99)",
+    "newStory": "Create a new story",
+    "for": "for",
+    "age": "years old",
+    "theme": "Theme"
+  },
+  "dashboard": {
+    "title": "My stories",
+    "empty": "No stories yet",
+    "emptySubtitle": "Create your first magical story!",
+    "createFirst": "Create my first story",
+    "storiesUsed": "stories used this month",
+    "unlimited": "Unlimited",
+    "upgradePrompt": "Upgrade to Premium for unlimited stories"
+  },
+  "pricing": {
+    "title": "Choose your plan",
+    "subtitle": "Simple, transparent, no commitment",
+    "monthly": "/ month",
+    "free": {
+      "name": "Free",
+      "price": "€0",
+      "cta": "Start for free"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "€2.99",
+      "cta": "Subscribe now",
+      "popular": "Most popular"
+    },
+    "book": {
+      "name": "Physical Book",
+      "price": "€14.99",
+      "cta": "Order a book",
+      "desc": "Per printed book"
+    }
+  },
+  "auth": {
+    "signin": {
+      "title": "Welcome back!",
+      "subtitle": "Sign in to your Kidshade account",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign in",
+      "google": "Continue with Google",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create an account",
+      "forgotPassword": "Forgot password?"
+    },
+    "signup": {
+      "title": "Create an account",
+      "subtitle": "Join +12,000 families on Kidshade",
+      "name": "Full name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Create my account",
+      "google": "Sign up with Google",
+      "hasAccount": "Already have an account?",
+      "signin": "Sign in"
+    }
+  },
+  "footer": {
+    "tagline": "Magical stories for children around the world.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "links": {
+      "generate": "Create a story",
+      "pricing": "Pricing",
+      "dashboard": "My stories",
+      "about": "About",
+      "contact": "Contact",
+      "blog": "Blog",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "cookies": "Cookies"
+    },
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try again",
+    "back": "Back",
+    "languages": {
+      "fr": "🇫🇷 Français",
+      "en": "🇬🇧 English",
+      "es": "🇪🇸 Español",
+      "pt": "🇧🇷 Português",
+      "de": "🇩🇪 Deutsch"
+    }
+  }
+}
