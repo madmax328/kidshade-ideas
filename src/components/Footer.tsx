@@ -60,11 +60,6 @@ export default function Footer({ locale }: { locale: string }) {
           <p className="text-sm">
             © {new Date().getFullYear()} Kidshade. {t('rights')}
           </p>
-          <div className="flex items-center gap-1 text-sm">
-            <span>Made with</span>
-            <span className="text-red-400">♥</span>
-            <span>& AI</span>
-          </div>
         </div>
       </div>
     </footer>
