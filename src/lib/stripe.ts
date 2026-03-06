@@ -12,11 +12,11 @@ export const PLANS = {
     price: 0,
     storiesPerMonth: 5,
     features: {
-      fr: ['5 histoires / mois', 'Texte uniquement', 'Toutes les langues'],
-      en: ['5 stories / month', 'Text only', 'All languages'],
-      es: ['5 cuentos / mes', 'Solo texto', 'Todos los idiomas'],
-      pt: ['5 histórias / mês', 'Somente texto', 'Todos os idiomas'],
-      de: ['5 Geschichten / Monat', 'Nur Text', 'Alle Sprachen'],
+      fr: ['5 histoires / mois', 'Toutes les langues', 'Sauvegarde cloud'],
+      en: ['5 stories / month', 'All languages', 'Cloud backup'],
+      es: ['5 cuentos / mes', 'Todos los idiomas', 'Nube'],
+      pt: ['5 histórias / mês', 'Todos os idiomas', 'Nuvem'],
+      de: ['5 Geschichten / Monat', 'Alle Sprachen', 'Cloud'],
     },
   },
   premium: {
